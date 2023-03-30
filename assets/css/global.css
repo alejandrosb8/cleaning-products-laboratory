@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+  .login-image {
+    max-height: 200px;
+  }
+}
